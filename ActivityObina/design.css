@@ -1,0 +1,173 @@
+			*{
+				font-family: Segoe UI;
+			}
+			body{
+				background-color: #ebeef4;
+				margin: 0;
+				padding: 0px;
+			}
+			.bar{
+				width: 100%;
+				height: 105px;
+				background-color:#3b5998;
+			}
+			label{
+				color: white;
+			
+			}
+			.fb{
+				float: left;
+				font-size: 50px; 
+				color: white;
+				margin:10px; 
+				margin-left: 100px;
+				padding-top: 5px;
+				height: 60px;
+				width: 200px;
+			}
+	 	.em{ 
+	 		margin-top: 25px;
+	 		float: left;
+	 		margin-left: 390px;
+	 		height:70px; 
+	 		width:200px; 
+	 		font-family:verdana; 
+	 		font-size:13px; 
+	 	} 
+	 	.pass{
+	 		margin-top: 21.5px;
+	 		color: white;
+	 		float: right;
+	 		margin-right: 60px;
+	 		height:70px; 
+	 		width:300px; 
+	 		font-family:verdana; 
+	 		font-size:13px; 
+	 	
+	 	}
+
+	 	.e{
+	 		width: 200px;
+	 	}
+	 	.p{
+	 		width: 200px;
+	 	}
+			.sub{
+				background-color: #29568F;
+				border: 2px solid #4771A5;
+				color: white;
+				margin-top: 3px;
+				font-weight: bold; 
+				margin-right: 10px;
+			}
+			.forgot{
+				text-decoration: none;
+				color: white;
+			}
+			.connect{
+				margin-top: 5px;
+				margin-left: 100px;
+				height: 500px;
+				width: 500px;
+				font-size: 25px;
+				float: left;
+			}
+			.con{
+				 color: black;
+			}
+			.see{
+				height: 50px;
+				width: 50px;
+				vertical-align: middle;
+			}
+			.photos{
+				color: black;
+			}
+			.share{
+				height: 40px;
+				width: 50px;
+				vertical-align: middle;
+			}
+			.what{
+				color: black;
+			}
+			.findmore{
+				height: 50px;
+				width: 50px;
+				vertical-align: middle;
+			}
+			.more{
+				color: black;
+			}
+			.Sign{
+				width: 495px;
+				float: right;
+				margin-right: 100px;
+				border-bottom: 1px solid gray; 
+			}
+			.up{
+				font-size: 35px;
+			}
+			.first{ 
+				width: 225px;
+				border: 2px solid lightgray;
+				font-size: 15px;
+				padding: 5px;
+				border-radius: 5px;
+			}
+			.last{ 
+				width: 225px;
+				border: 2px solid lightgray;
+				font-size: 15px;
+				margin-left: 10px;
+				padding: 5px;
+				border-radius: 5px;
+			}
+			.mobile{
+				width: 476px;
+				border: 2px solid lightgray;
+				padding: 5px; 
+				font-size: 15px; 
+				margin-top: 10px;
+				border-radius: 5px; 
+			}
+			.new{
+				width: 476px;
+				border: 2px solid lightgray;
+				padding: 5px; 
+				font-size: 15px; 
+				margin-top: 10px;
+				border-radius: 5px; 
+			}
+			.b{color: gray;}
+			.birth{
+				padding: 5px;
+				font-size: 15px; 
+			}
+			select {
+				height: 30px;
+				font-family: arial;
+				font-size: 15px;
+				margin-top: 5px;
+			}
+			
+			.g{color: gray;}
+			.gen{
+				font-size: 25px;
+				font-family: Browallia New;
+				color: black;
+
+			}
+			.term{
+				color: #4267B2;
+			}
+			.subm{
+				text-align: center; 
+				background-color: #59983c;
+				padding: 5px;
+				border-radius: 5px; 
+				font-weight: bold; 
+				width: 200px; 
+				color: white; 
+				height: 40px;
+			}
